@@ -3,10 +3,16 @@
     "name": "Electrodynamix II",
     "author": "Iv4n24",
     "creators": [],
-    "verifier": "Solo_Creator",
+    "verifier": "Iv4n24",
     "verification": "https://youtu.be/l6ir4tgboGE?si=kCTJOcxOc0o_7dlx",
     "percentToQualify": "100",
     "password": "Cannot Copy",
     "records": [
+        {
+            "user": "Ketazoner",
+            "link": "about:blank",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
